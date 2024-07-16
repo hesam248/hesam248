@@ -5,8 +5,8 @@ const user = {
   name:"hesam",
   last name:"alinazar",
   age:19,
-  city:"tehran"
-  job:"Web developer"
+  city:"tehran",
+  job:"Web developer",
   level:"junior"
 }
 ```
